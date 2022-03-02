@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>할 거 없을 때</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;400&display=swap" rel="stylesheet"/>
+</head>
+<body>
+    <div class="main">
+        <div class="title">
+            <h1>할 거 없을 땐?</h1>
+        </div>
+
+        <div class="container">
+            <div class="card" onclick="javascript:window.open('https://www.naver.com')">
+                <div class="card-top">네이버 - 메인</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://news.naver.com/')">
+                <div class="card-top">네이버 - 뉴스</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://finance.naver.com/')">
+                <div class="card-top">네이버 - 증권</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://section.cafe.naver.com/ca-fe/')">
+                <div class="card-top">네이버 - 카페</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://land.naver.com/')">
+                <div class="card-top">네이버 - 부동산</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://section.blog.naver.com/')">
+                <div class="card-top">네이버 - 블로그</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://comic.naver.com/index')">
+                <div class="card-top">네이버 - 웹툰</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://kin.naver.com/')">
+                <div class="card-top">네이버 - 지식인</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://finance.daum.net/')">
+                <div class="card-top">다음 - 증권</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://top.cafe.daum.net/')">
+                <div class="card-top">다음 - 카페</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://blog.daum.net/')">
+                <div class="card-top">다음 - 블로그</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://webtoon.kakao.com/')">
+                <div class="card-top">다음 - 웹툰</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://www.instagram.com/?hl=ko')">
+                <div class="card-top">인스타그램</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://ko-kr.facebook.com/')">
+                <div class="card-top">페이스북</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://twitter.com/?lang=ko')">
+                <div class="card-top">트위터</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.youtube.com/')">
+                <div class="card-top">유튜브</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://www.netflix.com/kr/')">
+                <div class="card-top">넷플릭스</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://watcha.com/')">
+                <div class="card-top">왓챠</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.disneyplus.com/ko-kr')">
+                <div class="card-top">디즈니플러스</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.coupangplay.com/')">
+                <div class="card-top">쿠팡플레이</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://www.tving.com/main.do')">
+                <div class="card-top">티빙</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.wavve.com/')">
+                <div class="card-top">웨이브</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.inflearn.com/')">
+                <div class="card-top">인프런</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('http://www.ingangdream.com/')">
+                <div class="card-top">인강드림</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://www.dcinside.com/')">
+                <div class="card-top">디시인사이드</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.fmkorea.com/')">
+                <div class="card-top">에펨코리아</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.bobaedream.co.kr/')">
+                <div class="card-top">보배드림</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://bbs.ruliweb.com/')">
+                <div class="card-top">루리웹</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://pann.nate.com/')">
+                <div class="card-top">네이트판</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.instiz.net/')">
+                <div class="card-top">인스티즈</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.82cook.com/')">
+                <div class="card-top">82쿡</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://theqoo.net/')">
+                <div class="card-top">더쿠</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://namu.wiki/')">
+                <div class="card-top">나무위키</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.teamblind.com/kr/')">
+                <div class="card-top">블라인드</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.tistory.com/')">
+                <div class="card-top">티스토리</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.clien.net/service/')">
+                <div class="card-top">클리앙</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('http://web.humoruniv.com/main.html')">
+                <div class="card-top">웃긴대학</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('http://www.todayhumor.co.kr/')">
+                <div class="card-top">오늘의유머</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://ygosu.com/')">
+                <div class="card-top">와이고수</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.ppomppu.co.kr/')">
+                <div class="card-top">뽐뿌</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://upbit.com/home')">
+                <div class="card-top">업비트</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.binance.com/en')">
+                <div class="card-top">바이낸스</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.bithumb.com/')">
+                <div class="card-top">빗썸</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://coinone.co.kr/')">
+                <div class="card-top">코인원</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('http://www.danawa.com/')">
+                <div class="card-top">다나와</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.coupang.com/')">
+                <div class="card-top">쿠팡</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('http://www.auction.co.kr/')">
+                <div class="card-top">옥션</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.tmon.co.kr/')">
+                <div class="card-top">티몬</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://www.11st.co.kr/main')">
+                <div class="card-top">11번가</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.gmarket.co.kr/')">
+                <div class="card-top">G마켓</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('http://www.interpark.com/')">
+                <div class="card-top">인터파크</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.lotteshopping.com/')">
+                <div class="card-top">롯데백화점</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://www.shinsegae.com/index.do')">
+                <div class="card-top">신세계백화점</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.elandmall.com/')">
+                <div class="card-top">이랜드몰</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.ehyundai.com/')">
+                <div class="card-top">현대백화점</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.amazon.com/')">
+                <div class="card-top">아마존</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://cafe.naver.com/joonggonara')">
+                <div class="card-top">중고나라</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://www.daangn.com/')">
+                <div class="card-top">당근마켓</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://m.bunjang.co.kr/')">
+                <div class="card-top">번개장터</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('http://dmall.danawa.com/v3/')">
+                <div class="card-top">다나와장터</div>
+                <div class="card-middle"></div>
+            </div>
+
+            <div class="card" onclick="javascript:window.open('https://github.com/')">
+                <div class="card-top">깃허브</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://stackoverflow.com/')">
+                <div class="card-top">스택오버플로우</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://okky.kr/')">
+                <div class="card-top">오키</div>
+                <div class="card-middle"></div>
+            </div>
+            <div class="card" onclick="javascript:window.open('https://programmers.co.kr/')">
+                <div class="card-top">프로그래머스</div>
+                <div class="card-middle"></div>
+            </div>
+
+
+                </div>
+    <footer>
+        copyrightⓒ 2021 All rights reserved by TEAM WV
+    </footer>
+</body>
+</html>
